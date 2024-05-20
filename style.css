@@ -1,0 +1,11 @@
+.btns>button{
+width: 80px;
+height: 45px;
+}
+#textarea{
+    margin: 50px auto;
+}
+.btns{
+    margin: 0px auto;
+
+}

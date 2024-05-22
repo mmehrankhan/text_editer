@@ -7,13 +7,14 @@
 .para{
     width: 800px;
     height: 800px;
+    margin: auto
+
 }
 .action_btn{
     width: 70px;
     height: 30px;
     border-radius: 5px;
     background-color: rgb(186, 220, 231);
-
 
 }
 body{
@@ -30,4 +31,7 @@ body{
     border-radius: 5px;
     background-color: rgb(186, 220, 231); 
 }
-
+.btns{
+    margin: 0px auto;
+    margin-left: 20px;
+}

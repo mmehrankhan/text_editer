@@ -1,11 +1,33 @@
-.btns>button{
-width: 80px;
-height: 45px;
+
+
+.h1{
+    text-align: center;
+    font-size:80px;
 }
-#textarea{
-    margin: 50px auto;
+.para{
+    width: 800px;
+    height: 800px;
 }
-.btns{
-    margin: 0px auto;
+.action_btn{
+    width: 70px;
+    height: 30px;
+    border-radius: 5px;
+    background-color: rgb(186, 220, 231);
+
 
 }
+body{
+    background-image:url(img1.jpg);
+    background-size:100%;
+}
+#text{
+    text-align: center;
+ 
+}
+#font_size{
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+    background-color: rgb(186, 220, 231); 
+}
+
